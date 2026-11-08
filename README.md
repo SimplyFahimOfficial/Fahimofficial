@@ -1,40 +1,122 @@
-# Hi, I'm Fahim 👋
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:151518,60:2A1F4D,100:6A4DC4&height=220&section=header&text=FAHIM&fontSize=90&fontColor=ECE7DE&fontAlignY=38&desc=Independent%20Developer%20%E2%80%A2%20Chemistry%20Student&descSize=18&descAlignY=60&animation=fadeIn" alt="FAHIM, independent developer and chemistry student" width="100%" />
+</p>
 
-**Independent developer** | Chemistry student | UI/UX & privacy advocate | Open-source enthusiast
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=B4A0F7&center=true&vCenter=true&width=600&lines=Building+privacy-first+Android+apps;UI%2FUX+obsessed+%E2%80%A2+Open-source+at+heart;Chemistry+%C3%97+Code" alt="Building privacy-first Android apps. UI/UX obsessed, open source at heart. Chemistry times code." />
+</p>
 
-I build Android applications, design intuitive user interfaces, and contribute to open-source projects focused on privacy and accessibility. Currently exploring the intersection of chemistry and software.
-
----
-
-## 🔭 What I'm working on
-- **QuantumMPV** — An open-source Android media player with privacy-first design
-- **Personal projects** — Chemistry tools, UI experiments, and privacy utilities
-- Open-source contributions and collaborative development
-
-## 🌱 I'm learning
-- Advanced Android architecture patterns
-- Privacy-preserving UI/UX design
-- Open-source project governance
-
-## 💬 Ask me about
-- Android development and Kotlin
-- Privacy-first application design
-- Open-source licensing and community building
-- UI/UX principles for mobile apps
-
-## 📫 How to reach me
-- **Email:** [SimplyFahim@tuta.io](mailto:SimplyFahim@tuta.io) (primary) | [SimplyFahimOfficial@gmail.com](mailto:SimplyFahimOfficial@gmail.com)
-- **Support my work:** [Ko-fi](https://ko-fi.com/simplyfahim) • [UPI: SimplyFahim@Sbi](upi://pay?pa=SimplyFahim@Sbi)
-- **Social:** [@simplyfahimofficial](https://www.instagram.com/simplyfahimofficial/) on Instagram
-
-## 🚀 Featured projects
-| Repository | Language | Description |
-|-----------|----------|-------------|
-| **QuantumMPV** | Kotlin | Privacy-focused Android media player with AGPL-3.0 license |
-| **Fern-wallet** | Kotlin | Financial management application (archived) |
+<p align="center">
+  <img src="https://img.shields.io/badge/Available%20for%20hire-6A4DC4?style=for-the-badge&logoColor=white" alt="Available for hire" />
+  <img src="https://img.shields.io/badge/he%2Fhim-151518?style=for-the-badge" alt="Pronouns: he/him" />
+  <img src="https://komarev.com/ghpvc/?username=SimplyFahimOfficial&style=for-the-badge&color=6A4DC4&label=VISITORS" alt="Profile visitors" />
+</p>
 
 ---
 
-**Available for hire** · Open to collaborations on privacy and open-source projects · he/him
+## ⚡ About Me
 
-*Minimal design, maximum impact.*
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🧪 Who I am
+I'm an **independent developer** and **chemistry student**.
+I build Android apps that respect your privacy and look good doing it.
+
+**Off-screen:** science · philosophy · books · cinema
+
+  </td>
+    <td width="50%" valign="top">
+
+### 🛠️ What I do
+- 📱 Android apps in **Kotlin**
+- 🎨 UI/UX for mobile
+- 🔒 Privacy-first design
+- 🌍 Open-source contributions
+
+  </td>
+  </tr>
+</table>
+
+## 🧰 Toolbox
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+## 📡 Connect
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://www.instagram.com/simplyfahimofficial/">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /><br/>
+        <sub><b>@simplyfahimofficial</b></sub>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="mailto:SimplyFahim@tuta.io">
+        <img src="https://img.shields.io/badge/Tuta%20Mail-840010?style=for-the-badge&logo=tutanota&logoColor=white" alt="Email (Tuta, primary)" /><br/>
+        <sub><b>SimplyFahim@tuta.io</b></sub>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="mailto:SimplyFahimOfficial@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email (Gmail, alternative)" /><br/>
+        <sub><b>SimplyFahimOfficial@gmail.com</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+## 💜 Support My Work
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://ko-fi.com/simplyfahim">
+        <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" alt="Support me on Ko-fi" /><br/>
+        <sub><b>ko-fi.com/simplyfahim</b></sub>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/UPI-SimplyFahim%40Sbi-6A4DC4?style=for-the-badge&logo=googlepay&logoColor=white" alt="UPI ID: SimplyFahim@Sbi" /><br/>
+      <sub>UPI ID: <code>SimplyFahim@Sbi</code></sub>
+    </td>
+  </tr>
+</table>
+
+<p align="center"><sub>Support is voluntary and keeps my independent projects alive. Thank you! 🙏</sub></p>
+
+## 🚀 Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🎬 [QuantumMPV](https://github.com/SimplyFahimOfficial/QuantumMPV)
+Android media player on libmpv. HDR, shaders, Anime4K. No ads, no trackers.
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![AGPL-3.0](https://img.shields.io/badge/AGPL--3.0-151518?style=flat-square) [![Website](https://img.shields.io/badge/Website-6A4DC4?style=flat-square)](https://quantummpv.vercel.app/)
+
+  </td>
+    <td width="50%" valign="top">
+
+### 🌿 [Fern Wallet](https://github.com/SimplyFahimOfficial/Fern-wallet)
+Open-source money manager for Android.
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![GPL-3.0](https://img.shields.io/badge/GPL--3.0-151518?style=flat-square)
+
+  </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A4DC4,40:2A1F4D,100:151518&height=120&section=footer" alt="" width="100%" />
+</p>
