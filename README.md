@@ -8,7 +8,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Available%20for%20hire-6A4DC4?style=for-the-badge&logoColor=white" alt="Available for hire" />
   <img src="https://img.shields.io/badge/he%2Fhim-151518?style=for-the-badge" alt="Pronouns: he/him" />
   <img src="https://komarev.com/ghpvc/?username=SimplyFahimOfficial&style=for-the-badge&color=6A4DC4&label=VISITORS" alt="Profile visitors" />
 </p>
@@ -52,47 +51,25 @@ I build Android apps that respect your privacy and look good doing it.
 
 ## 📡 Connect
 
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://www.instagram.com/simplyfahimofficial/">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /><br/>
-        <sub><b>@simplyfahimofficial</b></sub>
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <a href="mailto:SimplyFahim@tuta.io">
-        <img src="https://img.shields.io/badge/Tuta%20Mail-840010?style=for-the-badge&logo=tutanota&logoColor=white" alt="Email (Tuta, primary)" /><br/>
-        <sub><b>SimplyFahim@tuta.io</b></sub>
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <a href="mailto:SimplyFahimOfficial@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email (Gmail, alternative)" /><br/>
-        <sub><b>SimplyFahimOfficial@gmail.com</b></sub>
-      </a>
-    </td>
-  </tr>
-</table>
+<!-- Inline badges wrap on narrow screens instead of forcing a scrollable table -->
+<p align="center">
+  <a href="https://www.instagram.com/simplyfahimofficial/"><img src="https://img.shields.io/badge/Instagram-@simplyfahimofficial-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram: @simplyfahimofficial" /></a>
+  <a href="mailto:SimplyFahim@tuta.io"><img src="https://img.shields.io/badge/Tuta-SimplyFahim@tuta.io-840010?style=for-the-badge&logo=tutanota&logoColor=white" alt="Email (Tuta, primary): SimplyFahim@tuta.io" /></a>
+  <a href="mailto:SimplyFahimOfficial@gmail.com"><img src="https://img.shields.io/badge/Gmail-SimplyFahimOfficial@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email (Gmail): SimplyFahimOfficial@gmail.com" /></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:151518,50:2A1F4D,100:6A4DC4&height=70&section=footer" alt="" width="100%" />
+</p>
 
 ## 💜 Support My Work
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://ko-fi.com/simplyfahim">
-        <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" alt="Support me on Ko-fi" /><br/>
-        <sub><b>ko-fi.com/simplyfahim</b></sub>
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/UPI-SimplyFahim%40Sbi-6A4DC4?style=for-the-badge&logo=googlepay&logoColor=white" alt="UPI ID: SimplyFahim@Sbi" /><br/>
-      <sub>UPI ID: <code>SimplyFahim@Sbi</code></sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://quantummpv.vercel.app/#support"><img src="https://img.shields.io/badge/More%20ways%20to%20pay-6A4DC4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="More ways to pay on my website" /></a>
+  <a href="https://quantummpv.vercel.app/docs/assets/support/upi-qr.png"><img src="https://img.shields.io/badge/Show%20UPI%20QR-151518?style=for-the-badge&logo=googlepay&logoColor=white" alt="Show UPI QR code" /></a>
+</p>
 
-<p align="center"><sub>Support is voluntary and keeps my independent projects alive. Thank you! 🙏</sub></p>
+<p align="center"><sub>UPI ID: <code>SimplyFahim@Sbi</code> · Support is voluntary and keeps my independent projects alive. Thank you! 🙏</sub></p>
 
 ## 🚀 Projects
 
@@ -118,5 +95,5 @@ Open-source money manager for Android.
 </table>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A4DC4,40:2A1F4D,100:151518&height=120&section=footer" alt="" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A4DC4,40:2A1F4D,100:151518&height=140&section=footer&text=Thanks%20for%20stopping%20by&fontSize=24&fontColor=ECE7DE&fontAlignY=70&animation=twinkling" alt="Thanks for stopping by" width="100%" />
 </p>
